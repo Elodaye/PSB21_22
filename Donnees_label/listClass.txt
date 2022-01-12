@@ -1,0 +1,5 @@
+classe
+car,0
+moto,1
+pie,2
+chien,3
