@@ -1,3 +1,5 @@
+import os
+
 from PyQt5 import QtGui, QtCore, QtWidgets, uic
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit , QFormLayout, QAction
@@ -25,19 +27,67 @@ class Window_Menu (QtWidgets.QMainWindow) :
         zoneCentrale.setPalette(pal)
 
         self.setWindowTitle("Entrez les labels de l'échantillon")
-        self.setFixedSize(300, 210)
+        self.setFixedSize(300, 570)
 
-        self.bouton_valider = QtWidgets.QPushButton("Save", self)  # on crée un bouton qui affichera 'Lancer la partie'
+        self.bouton_car = QtWidgets.QPushButton("car", self)  # on crée un bouton qui affichera 'Lancer la partie'
+        self.bouton_car.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_car.setFont(QFont('Calibri', 12))   # type et taille de police
+        self.bouton_car.move(120, 120)  # position du bouton
+
+        self.bouton_voix =  QtWidgets.QPushButton("voix", self)
+        self.bouton_voix.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_voix.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_voix.move(120, 120)  # position du bouton
+
+        self.bouton_poule = QtWidgets.QPushButton("poule", self)
+        self.bouton_poule.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_poule.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_poule.move(120, 120)  # position du bouton
+
+        self.bouton_mouette = QtWidgets.QPushButton("mouette", self)
+        self.bouton_mouette.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_mouette.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_mouette.move(120, 120)  # position du bouton
+
+        self.bouton_moto = QtWidgets.QPushButton("moto", self)
+        self.bouton_moto.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_moto.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_moto.move(120, 120)  # position du bouton
+
+        self.bouton_pie = QtWidgets.QPushButton("pie", self)
+        self.bouton_pie.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_pie.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_pie.move(120, 120)  # position du bouton
+
+        self.bouton_chien = QtWidgets.QPushButton("chien", self)
+        self.bouton_chien.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_chien.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_chien.move(120, 120)  # position du bouton
+
+
+        self.bouton_valider = QtWidgets.QPushButton("Save", self)
         self.bouton_valider.setFixedSize(150, 40)  # taille du bouton
-        self.bouton_valider.setFont(QFont('Calibri', 12))   # type et taille de police
+        self.bouton_valider.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_valider.setStyleSheet("background-color : green")
         self.bouton_valider.move(120, 120)  # position du bouton
-        self.bouton_play =  QtWidgets.QPushButton("Play", self)
+
+        self.bouton_play = QtWidgets.QPushButton("Play", self)
         self.bouton_play.setFixedSize(150, 40)  # taille du bouton
         self.bouton_play.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_play.setStyleSheet("background-color : yellow")
         self.bouton_play.move(120, 120)  # position du bouton
+
+        self.bouton_efface = QtWidgets.QPushButton("Discard", self)
+        self.bouton_efface.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_efface.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_efface.setStyleSheet("background-color : red")
+        self.bouton_efface.move(120, 120)  # position du bouton
+
         self.nb_tour = QLineEdit(self)
         self.nb_tour.setFixedSize(150,30)
         self.nb_tour.move(20, 100)
+
+
 
         self.layout = QFormLayout()
 
@@ -53,39 +103,110 @@ class Window_Menu (QtWidgets.QMainWindow) :
         self.titre3.move(20, 100)
         self.titre3.show()
 
-        self.titre4= QLabel("Séparer les labels par des ', ' ")
-        self.titre4.setFont(QFont('Calibri', 12))
-        self.titre4.setFixedSize(280,30)
-        self.titre4.move(20, 200)
-        self.titre4.show()
+        # self.titre4= QLabel("Séparer les labels par des ', ' ")
+        # self.titre4.setFont(QFont('Calibri', 12))
+        # self.titre4.setFixedSize(280,30)
+        # self.titre4.move(20, 200)
+        # self.titre4.show()
 
         self.layout.addRow(self.titre1)
         self.layout.addRow(self.titre3, self.nb_tour)
+
+
+        self.layout.addWidget(self.bouton_car)
+        self.layout.addWidget(self.bouton_voix)
+        self.layout.addWidget(self.bouton_poule)
+        self.layout.addWidget(self.bouton_mouette)
+        self.layout.addWidget(self.bouton_moto)
+        self.layout.addWidget(self.bouton_pie)
+        self.layout.addWidget(self.bouton_chien)
+
         self.layout.addWidget(self.bouton_play)
+        self.layout.addWidget(self.bouton_efface)
         self.layout.addWidget(self.bouton_valider)
-        self.layout.addRow(self.titre4)
+
+        # self.layout.addRow(self.titre4)
+
         zoneCentrale.setLayout (self.layout)
         self.setCentralWidget(zoneCentrale)
+
         self.bouton_valider.clicked.connect(self.recueille_label)
+        self.bouton_efface.clicked.connect(self.efface)
         self.bouton_play.clicked.connect(self.ecoute)
 
-        sr, self.sig = wavfile.read("C://Users//Utilisateur//Downloads//premier_test.wav")
+        self.bouton_car.clicked.connect(self.ajoute_label_car)
+        self.bouton_voix.clicked.connect(self.ajoute_label_voix)
+        self.bouton_poule.clicked.connect(self.ajoute_label_poule)
+        self.bouton_mouette.clicked.connect(self.ajoute_label_mouette)
+        self.bouton_moto.clicked.connect(self.ajoute_label_moto)
+        self.bouton_pie.clicked.connect(self.ajoute_label_pie)
+        self.bouton_chien.clicked.connect(self.ajoute_label_chien)
+
+
+        sr, self.sig = wavfile.read(chemin_court + "village_3.wav")
         # sr = fréquence d'échantillonage
         duree = 300          # durée de l'audio en entrée
         self.temps_spec = 10 # durée de l'enregistrement, choisie à 10 secondes.
         nb_points = sr * duree
         self.pas2 = nb_points * self.temps_spec / duree  # nb de points correspondant à un échantillon de 10 secondes
 
-        self.f = open("C://Users//Utilisateur//Downloads//mes_datas.txt", "w")
-        self.f.write("path,labels\n")
+        self.f = open(chemin_court + "mes_datas.txt", "a")
+        if os.path.getsize(chemin_court + "mes_datas.txt") == 0 :
+            self.f.write("path,labels\n")
         self.sig_splits = []
-        self.i = 0
+        self.i = 21 # anciens comptés
+        self.ii = 0
 
-        self.split = self.sig[self.i * (int(self.pas2)): (self.i + 1) * (int(self.pas2))]
+        self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]
         self.sig_splits.append(self.split)
         self.freq = sr   # ça me sort 32 000
 
         self.show()
+
+    def ajoute_label_car (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "car")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "car")
+
+    def ajoute_label_voix (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "voix")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "voix")
+
+    def ajoute_label_poule (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "poule")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "poule")
+
+    def ajoute_label_mouette (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "mouette")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "mouette")
+
+    def ajoute_label_moto (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "moto")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "moto")
+
+    def ajoute_label_pie (self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "pie")
+        else :
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "pie")
+
+    def ajoute_label_chien(self):
+        if str(self.nb_tour.text()) == '':
+            self.nb_tour.setText(self.nb_tour.text() + "chien")
+        else:
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "chien")
+
+    def efface(self):
+        self.nb_tour.setText('')
 
     def recueille_label (self) :
         # Appelée à chaque fois que l'on appuie sur Save, après avoir rentré les labels de l'échantillon à labelliser
@@ -100,19 +221,24 @@ class Window_Menu (QtWidgets.QMainWindow) :
             nb = str (nb)
             self.close()
             self.i += 1
+            self.ii += 1
 
-            if self.i < int(300 / self.temps_spec - 20):
-                self.split = self.sig[self.i * (int(self.pas2)): (self.i + 1) * (int(self.pas2))]
+            if self.ii < int(241 / self.temps_spec):
+                # TODO a moduler
+                self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]  # ,0 si on a un audio
+                # TODO a moduler
                 self.sig_splits.append(self.split)
                 self.titre1.setText(("Echantillon n° {}".format(self.i +1)))
                 self.show()
+                self.nb_tour.setText('')
 
             else :
-                for i in range(int(300 / self.temps_spec - 20)):
-                    write("C://Users//Utilisateur//Downloads//recording{}.wav".format(i + 1), self.freq, self.sig_splits[i])
+                for i in range(int(241/ self.temps_spec)):
+                    # TODO a moduler
+                    write(chemin_court + "audio" + "recording{}.wav".format(i +21 + 1), self.freq, self.sig_splits[i])
                     if "," in self.label[i]: # si on a plusieurs labels
                         self.label[i] = '"' + self.label[i] + '"'
-                    self.f.write("C://Users//Utilisateur//Downloads//recording{}.png,{}\n".format(i + 1, self.label[i]))
+                    self.f.write(chemin + "recording{}.png,{}\n".format(i + 1 + 21, self.label[i]))
                 self.f.close()
 
         except ValueError :   # on ne peut faire un nombre de coup qui ne soit pas un nombre entier
@@ -125,10 +251,13 @@ class Window_Menu (QtWidgets.QMainWindow) :
 
        pygame.mixer.pre_init(48000, size=-16, channels=1)
        pygame.mixer.init()
-       mySound = np.array([[i,0] for i in self.split])
+       print (self.split)
+       mySound = np.array([[i,0] for i in self.split]) # , dtype = object
        sound = pygame.sndarray.make_sound(mySound)  # objet de type Sound
        sound.play()
 
+chemin = "C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/"
+chemin_court = "C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/"
 
 if __name__ == "__main__" :
 

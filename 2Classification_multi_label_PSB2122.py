@@ -25,19 +25,23 @@ def preparer_reps(src_audios, rep_dst, taille_wav):
     print("------------------------Conversion de tous les fichiers---------------------------")
 
     chemin_conv = src_audios  # là où se trouvent les fichiers audio d'entrée (où ils sont déjà triés dans 2 dossiers car et notcar)
-    spec = os.path.join(chemin_conv, 'spec')
+    #spec = os.path.join(chemin_conv, 'spec')
+    spec = chemin_conv + "//spec"
     if not os.path.isdir(spec):
         os.mkdir(spec)
-    audio_src = os.path.join(chemin_conv, 'audio')
+   # audio_src = os.path.join(chemin_conv, 'audio')
+    audio_src = chemin_conv + "//audio"
+    if not os.path.isdir(audio_src):
+        os.mkdir(audio_src)
     convertir_repertoire(audio_src, spec, taille_wav)
-
 
     print("-----------------------Fin de la préparation--------------------------------")
 
     # nb_train = len(os.listdir(chemin_data_train)) # 10
-    # nb_valid = len(os.listdir(chemin_data_validation))  # 5
+    # nb_valid = len(os.listdir(chemin_data_validation))  # 5  # ne fonctionne plus 
 
-    nb_train, nb_valid = 10, 5
+    nb_train, nb_valid = 21, 13
+    # TODO a moduler
     return nb_train, nb_valid
 
 # ----------------------------Conversion en spectrogramme---------------------------
@@ -81,7 +85,8 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         ax.set_axis_off()
         fig.add_axes(ax)
         plt.pcolormesh(times, frequencies, human_spectrogram , cmap='gray_r')
-        output = os.path.join(output_dir,output_name)
+       #output = os.path.join(output_dir,output_name)
+        output = output_dir + "//" +  output_name
         plt.savefig(output, dpi=fig.dpi)
         plt.close(fig)
     else:
@@ -123,7 +128,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     # création du modèle:
 
-    NB_CLASSES = 7
+    NB_CLASSES = 4
     model = models.Sequential()
     # Conv2D(nb_filtres, taille de filtre, activation=fct activation, imput_shape=forme de l'image d'entrée)
     #model.add(layers.Dense(16, activation='relu'))  # 512 neurones reliés de manière dense
@@ -145,11 +150,12 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     model.summary()
 
     # Lecture du fichier des classes, donc toutes les classes avec leur index
-    CLASSE = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/dataset_m/listClass.txt", sep=',',
-                         names=["classe", "index"])
+    CLASSE = pd.read_csv(chemin_bis, sep=',',
+                         names=["classe", "index"], encoding='latin-1')
 
-    df = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/dataset_m/data.txt")
-    df["labels"] = df["labels"].apply(lambda x: x.split(","))
+    df = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", encoding='latin-1')
+    df["labels"] = df["labels"].apply(lambda x: x.split(", "))
+    print (df['path'])
 
     LIST_CLASS = []
 
@@ -190,7 +196,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     # Permet de sauvegarder les indices de labels de classe  # Utilisé lors de prediction de nouveaux fichiers
     labels = train_generator.class_indices
-    with open('C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/dataset_m/classIndice.txt', 'w') as file:
+    with open(chemin + "classIndice.txt", 'w') as file:
         file.write(json.dumps(labels))
 
     print("-----------------------Réalisation de prédictions par le modèle entraîné--------------------------------")
@@ -221,14 +227,14 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     print ("pred",pred)  # la matrice des probabilités
     print (booleanPrediction, "booleanPrediction") # la matrice des indices représentants les sons estimés présents (si True)
 
-    f2 = open("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/dataset_m/donnees_pour_carte", "w")
+    f2 = open(chemin + "donnees_pour_carte", "w+")
     for i in range (5):
         f2.write("x : dans le titre de l image {}".format(i)+ ", " + "y: dans le titre de l image {}".format(i) + ", " + "t : dans le titre de l'image {}".format(i) + ", " + str (booleanPrediction[i]) + ", " + "l intensité maximale, a recueillir\n" )
 
     listPrediction = []
 
     # On récuperer le dictionnaire JSON des labels avec leur indice respectif
-    labelsList = json.load(open("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/dataset_m/classIndice.txt"))
+    labelsList = json.load(open(chemin + "classIndice.txt"))
     labelsList = dict((v, k) for k, v in labelsList.items())
 
     for img in booleanPrediction:
@@ -270,6 +276,8 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     plt.legend()
     plt.show()
 
+chemin = "C://Users//Utilisateur//Documents//ENSTA//2A//UE 3.4//Projet système//Machine_learning//Donnees_label//"
+chemin_bis = "C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label//listClass.txt"
 ImageFile.LOAD_TRUNCATED_IMAGES = True  # permet de traiter les images corrompues
 path_dataset_base = '\\Users\\Utilisateur\\Documents\\ENSTA\\2A\\UE 3.4\\Projet système\\dataset_m\\dictionnaire'
 nom_rep_wav = 'wav'
@@ -277,7 +285,8 @@ nom_rep_dst = 'spec'
 rep_dst = os.path.join(path_dataset_base,nom_rep_dst)
 src_audios = os.path.join(path_dataset_base,nom_rep_wav)
 taille_wav = 10  # durée en seconde des échantillons audios
-nb_train,nb_valid = preparer_reps(src_audios,rep_dst,taille_wav)
+#nb_train,nb_valid = preparer_reps(src_audios,rep_dst,taille_wav)
+nb_train,nb_valid = preparer_reps(chemin + "wav",chemin + "spec",taille_wav)
 
 CNN(500,500,nb_train,nb_valid,10)
 
