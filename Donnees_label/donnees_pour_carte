@@ -1,5 +1,5 @@
-x : dans le titre de l image 0, y: dans le titre de l image 0, t : dans le titre de l'image 0, [False  True False  True], l intensité maximale, a recueillir
-x : dans le titre de l image 1, y: dans le titre de l image 1, t : dans le titre de l'image 1, [False  True False  True], l intensité maximale, a recueillir
-x : dans le titre de l image 2, y: dans le titre de l image 2, t : dans le titre de l'image 2, [False False False  True], l intensité maximale, a recueillir
-x : dans le titre de l image 3, y: dans le titre de l image 3, t : dans le titre de l'image 3, [False  True False  True], l intensité maximale, a recueillir
-x : dans le titre de l image 4, y: dans le titre de l image 4, t : dans le titre de l'image 4, [ True False  True  True], l intensité maximale, a recueillir
+x : dans le titre de l image 0, y: dans le titre de l image 0, t : dans le titre de l'image 0, [ True False False  True False], l intensité maximale, a recueillir
+x : dans le titre de l image 1, y: dans le titre de l image 1, t : dans le titre de l'image 1, [False False False  True False], l intensité maximale, a recueillir
+x : dans le titre de l image 2, y: dans le titre de l image 2, t : dans le titre de l'image 2, [False False False False  True], l intensité maximale, a recueillir
+x : dans le titre de l image 3, y: dans le titre de l image 3, t : dans le titre de l'image 3, [ True False False False False], l intensité maximale, a recueillir
+x : dans le titre de l image 4, y: dans le titre de l image 4, t : dans le titre de l'image 4, [ True False False False False], l intensité maximale, a recueillir

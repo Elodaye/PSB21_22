@@ -143,18 +143,23 @@ class Window_Menu (QtWidgets.QMainWindow) :
         self.bouton_chien.clicked.connect(self.ajoute_label_chien)
 
 
-        sr, self.sig = wavfile.read(chemin_court + "village_3.wav")
-        # sr = fréquence d'échantillonage
-        duree = 300          # durée de l'audio en entrée
+        sr, self.sig = wavfile.read(chemin_court + "village_6.wav")
+        #TODO mettre le bon fichier à lire !!
+        #sr = fréquence d'échantillonage
+        self.duree = 183        # durée de l'audio en entrée
+        # TODO cette valeur doit être maj à chaque fois
         self.temps_spec = 10 # durée de l'enregistrement, choisie à 10 secondes.
-        nb_points = sr * duree
-        self.pas2 = nb_points * self.temps_spec / duree  # nb de points correspondant à un échantillon de 10 secondes
+        nb_points = sr * self.duree
+        self.pas2 = nb_points * self.temps_spec / self.duree  # nb de points correspondant à un échantillon de 10 secondes
 
         self.f = open(chemin_court + "mes_datas.txt", "a")
         if os.path.getsize(chemin_court + "mes_datas.txt") == 0 :
             self.f.write("path,labels\n")
         self.sig_splits = []
-        self.i = 21 # anciens comptés
+        self.depart = 87
+        # TODO cette valeur doit être maj à chaque fois
+        self.i = 87   # anciens comptés
+        # TODO cette valeur doit être maj à chaque fois
         self.ii = 0
 
         self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]
@@ -223,22 +228,19 @@ class Window_Menu (QtWidgets.QMainWindow) :
             self.i += 1
             self.ii += 1
 
-            if self.ii < int(241 / self.temps_spec):
-                # TODO a moduler
+            if self.ii < int(self.duree / self.temps_spec):
                 self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]  # ,0 si on a un audio
-                # TODO a moduler
                 self.sig_splits.append(self.split)
                 self.titre1.setText(("Echantillon n° {}".format(self.i +1)))
                 self.show()
                 self.nb_tour.setText('')
 
             else :
-                for i in range(int(241/ self.temps_spec)):
-                    # TODO a moduler
-                    write(chemin_court + "audio" + "recording{}.wav".format(i +21 + 1), self.freq, self.sig_splits[i])
+                for i in range(int(self.duree/ self.temps_spec)):
+                    write(chemin_court + "wav/audio/" + "recording{}.wav".format(i +self.depart + 1), self.freq, self.sig_splits[i])
                     if "," in self.label[i]: # si on a plusieurs labels
                         self.label[i] = '"' + self.label[i] + '"'
-                    self.f.write(chemin + "recording{}.png,{}\n".format(i + 1 + 21, self.label[i]))
+                    self.f.write(chemin + "recording{}.png,{}\n".format(i + 1 + self.depart, self.label[i]))
                 self.f.close()
 
         except ValueError :   # on ne peut faire un nombre de coup qui ne soit pas un nombre entier

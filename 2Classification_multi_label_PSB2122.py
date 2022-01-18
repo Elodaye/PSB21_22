@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import os
+
+import sklearn
 from scipy import signal
 from scipy.io import wavfile
 from keras import layers
@@ -38,9 +40,9 @@ def preparer_reps(src_audios, rep_dst, taille_wav):
     print("-----------------------Fin de la préparation--------------------------------")
 
     # nb_train = len(os.listdir(chemin_data_train)) # 10
-    # nb_valid = len(os.listdir(chemin_data_validation))  # 5  # ne fonctionne plus 
+    # nb_valid = len(os.listdir(chemin_data_validation))  # 5  # ne fonctionne plus
 
-    nb_train, nb_valid = 21, 13
+    nb_train, nb_valid = 70, 20
     # TODO a moduler
     return nb_train, nb_valid
 
@@ -58,7 +60,7 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
     time = samples.size / sample_rate
 
     if time == expected_time:  # si le fichier fait bien 10 secondes
-        nperseg = 512
+        nperseg = 512 #4094*2
         nfft = nperseg  # i.e. pas de zero-padding
 
         ### Obtention du spectrogramme, frequencies est un array
@@ -73,7 +75,16 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         freqs_to_keep *= frequencies <= fmax
         spectrogram = spectrogram[freqs_to_keep, :]
         frequencies = frequencies[freqs_to_keep]
-        human_spectrogram = 10 * np.log(spectrogram)
+        #print("hu_spectrogram", spectrogram, spectrogram.shape)
+        human_spectrogram =200* np.log(spectrogram)
+        for i, ligne in enumerate (human_spectrogram):
+            for j, colonne in enumerate(ligne) :
+                if colonne <200:
+                    human_spectrogram[i][j] = 200
+                    #human_spectrogram = 100 * np.log10(spectrogram)
+        #human_spectrogram = np.exp(spectrogram) / 10
+        #print("huuuuuuuman spectrogrammmm", human_spectrogram, human_spectrogram.shape)
+        #human_spectrogram = spectrogram
         # la plupart des fréquences sont basses, donc pour que les différentes classes soient différenciées plus clairement,
         # étale les faible fréquences, avec le log
 
@@ -84,10 +95,13 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         ax = plt.Axes(fig, [0., 0., 1., 1.])
         ax.set_axis_off()
         fig.add_axes(ax)
-        plt.pcolormesh(times, frequencies, human_spectrogram , cmap='gray_r')
+
+        plt.pcolormesh(times, frequencies, human_spectrogram , cmap='binary') ##gray_r
+        #plt.colorbar()
        #output = os.path.join(output_dir,output_name)
         output = output_dir + "//" +  output_name
         plt.savefig(output, dpi=fig.dpi)
+        #plt.show()
         plt.close(fig)
     else:
         print("Fichier audio de mauvaise longueur! Attendu: ", expected_time, "| Reçu: ", time)
@@ -128,7 +142,8 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     # création du modèle:
 
-    NB_CLASSES = 4
+    NB_CLASSES = 5
+    # TODO a bien changer à chaque fois  !!!!
     model = models.Sequential()
     # Conv2D(nb_filtres, taille de filtre, activation=fct activation, imput_shape=forme de l'image d'entrée)
     #model.add(layers.Dense(16, activation='relu'))  # 512 neurones reliés de manière dense
@@ -136,11 +151,12 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     model.add(layers.MaxPooling2D(2,2))
     model.add(layers.Conv2D(64,(3,3),activation='relu'))   # à moduler au fur et à mesure du traitement des données
     model.add(layers.MaxPooling2D(2,2))
-    #model.add(layers.Conv2D(128,(3,3),activation='relu'))
-    # model.add(layers.MaxPooling2D(2,2))
-   ## model.add(layers.Conv2D(128,(3,3),activation='relu'))
+    model.add(layers.Dense(32, activation='relu'))  # 512 neurones reliés de manière dense
+    model.add(layers.Conv2D(128,(3,3),activation='relu'))
+    model.add(layers.MaxPooling2D(2,2))
+    model.add(layers.Conv2D(64,(3,3),activation='relu'))
   ##  model.add(layers.MaxPooling2D(2,2))
-  ##  model.add(layers.Dense(16, activation='relu')) # 512 neurones reliés de manière dense
+    #model.add(layers.Dense(16, activation='relu')) # 512 neurones reliés de manière dense
     model.add(layers.Flatten())
     model.add(layers.Dense(NB_CLASSES, activation ='sigmoid')) # 1 neurone en sortie
 
@@ -153,8 +169,11 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     CLASSE = pd.read_csv(chemin_bis, sep=',',
                          names=["classe", "index"], encoding='latin-1')
 
-    df = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", encoding='latin-1')
-    df["labels"] = df["labels"].apply(lambda x: x.split(", "))
+    df_0 = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", encoding='latin-1')
+    df_0["labels"] = df_0["labels"].apply(lambda x: x.split(", "))
+    df = sklearn.utils.shuffle(df_0)
+    #print (df, df_0)
+
     print (df['path'])
 
     LIST_CLASS = []
@@ -223,7 +242,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
                                    verbose=1)
 
     # Interupteur pour lever la prediction si on a au moins 10% de confidence
-    booleanPrediction = (pred > 0.2)
+    booleanPrediction = (pred > 0.5)
     print ("pred",pred)  # la matrice des probabilités
     print (booleanPrediction, "booleanPrediction") # la matrice des indices représentants les sons estimés présents (si True)
 
@@ -248,7 +267,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
         listPrediction.append(",".join(correctPredictList))  # on enregistre les prédictions effectuées pour chaque image
 
     print (listPrediction)
-    print (df[15:]["labels"])
+    print (df[nb_train + nb_valid:]["labels"])
 
     # Tableau contenant l'ensemble des chemin des images
     pathImg = test_generator._filepaths
@@ -288,6 +307,6 @@ taille_wav = 10  # durée en seconde des échantillons audios
 #nb_train,nb_valid = preparer_reps(src_audios,rep_dst,taille_wav)
 nb_train,nb_valid = preparer_reps(chemin + "wav",chemin + "spec",taille_wav)
 
-CNN(500,500,nb_train,nb_valid,10)
+CNN(500,500,nb_train,nb_valid,20)
 
 
