@@ -269,6 +269,14 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     print (listPrediction)
     print (df[nb_train + nb_valid:]["labels"])
 
+    f3 = open(chemin + "donnees_pour_performances", "w+")
+    # TODO 104 est à modifier selon le nb d'échantillons
+    for i in range(104 - nb_train - nb_valid):
+        f3.write(str(df.iat[nb_train + nb_valid + i, 0]) + ", " + str(df.iat[nb_train + nb_valid + i, 1]) + ", " + str(
+            [listPrediction[i]]) + "\n")
+        # df[nb_train + nb_valid + i: nb_train + nb_valid + i + 1]["labels"]
+    f3.close()
+
     # Tableau contenant l'ensemble des chemin des images
     pathImg = test_generator._filepaths
 
