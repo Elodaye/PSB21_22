@@ -42,7 +42,7 @@ def preparer_reps(src_audios, rep_dst, taille_wav):
     # nb_train = len(os.listdir(chemin_data_train)) # 10
     # nb_valid = len(os.listdir(chemin_data_validation))  # 5  # ne fonctionne plus
 
-    nb_train, nb_valid = 70, 20
+    nb_train, nb_valid = 25, 20 # multiples de 2 si possible
     # TODO a moduler
     return nb_train, nb_valid
 
@@ -76,11 +76,29 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         spectrogram = spectrogram[freqs_to_keep, :]
         frequencies = frequencies[freqs_to_keep]
         #print("hu_spectrogram", spectrogram, spectrogram.shape)
-        human_spectrogram =200* np.log(spectrogram)
-        for i, ligne in enumerate (human_spectrogram):
-            for j, colonne in enumerate(ligne) :
-                if colonne <200:
-                    human_spectrogram[i][j] = 200
+
+        #print(spectrogram.max(), spectrogram.min())
+
+        spectrogram_t = - np.log(spectrogram)
+        spectrogram_ok = (spectrogram_t/ 24* 255) + 100
+        #print(spectrogram_ok.max(), spectrogram_ok.min())
+
+        for i, ligne in enumerate(spectrogram_ok):
+            for j, colonne in enumerate(ligne):
+                if colonne > 120:
+                    spectrogram_ok[i][j] = 120
+       # spectrogram_ok = np.log (spectrogram_ook)
+
+
+        # human_spectrogram =200* np.log(spectrogram)
+        # print (human_spectrogram.max(), human_spectrogram.min())
+        #
+        # for i, ligne in enumerate (human_spectrogram):
+        #     for j, colonne in enumerate(ligne) :
+        #         if colonne <200:
+        #             human_spectrogram[i][j] = 200
+
+
                     #human_spectrogram = 100 * np.log10(spectrogram)
         #human_spectrogram = np.exp(spectrogram) / 10
         #print("huuuuuuuman spectrogrammmm", human_spectrogram, human_spectrogram.shape)
@@ -96,7 +114,7 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         ax.set_axis_off()
         fig.add_axes(ax)
 
-        plt.pcolormesh(times, frequencies, human_spectrogram , cmap='binary') ##gray_r
+        plt.pcolormesh(times, frequencies, spectrogram_ok , cmap='binary') ##gray_r
         #plt.colorbar()
        #output = os.path.join(output_dir,output_name)
         output = output_dir + "//" +  output_name
@@ -146,18 +164,33 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     # TODO a bien changer à chaque fois  !!!!
     model = models.Sequential()
     # Conv2D(nb_filtres, taille de filtre, activation=fct activation, imput_shape=forme de l'image d'entrée)
-    #model.add(layers.Dense(16, activation='relu'))  # 512 neurones reliés de manière dense
-    model.add(layers.Conv2D(32,(3,3), activation='relu',input_shape=(height,length,1)))
-    model.add(layers.MaxPooling2D(2,2))
-    model.add(layers.Conv2D(64,(3,3),activation='relu'))   # à moduler au fur et à mesure du traitement des données
-    model.add(layers.MaxPooling2D(2,2))
-    model.add(layers.Dense(32, activation='relu'))  # 512 neurones reliés de manière dense
-    model.add(layers.Conv2D(128,(3,3),activation='relu'))
-    model.add(layers.MaxPooling2D(2,2))
-    model.add(layers.Conv2D(64,(3,3),activation='relu'))
-  ##  model.add(layers.MaxPooling2D(2,2))
+    #model.add(layers.Dense(16, activation='relu', input_shape=(height,length,1)))  # 512 neurones reliés de manière dense
+
+    # model.add(layers.Conv2D(32,(3,3), activation='relu',input_shape=(height,length,1)))
+    # model.add(layers.MaxPooling2D(2,2))
+
+    model.add(layers.Dense(8, activation='relu',input_shape=(height,length,1)))
+    #model.add(layers.Dropout(0.2))
+    # model.add(layers.Conv2D(2, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
+    # model.add(layers.MaxPooling2D(2, 2))
+    #model.add(layers.Dense(128, activation='relu')) # TODO remettre , input_shape=(500, 500, 1))
+    model.add(layers.Conv2D(16, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
+    model.add(layers.MaxPooling2D(2, 2))
+    model.add(layers.Dense(64, activation='relu'))  # 512 neurones reliés de manière dense
+
+    model.add(layers.Dropout(0.5))
+
+    # model.add(layers.Conv2D(128,(3,3),activation='relu'))
+    # model.add(layers.MaxPooling2D(2,2))
+
+    # model.add(layers.Conv2D(32,(3,3),activation='relu'))
+    # model.add(layers.MaxPooling2D(2,2))
+
     #model.add(layers.Dense(16, activation='relu')) # 512 neurones reliés de manière dense
     model.add(layers.Flatten())
+    # model.add(layers.Dense(32, activation='relu'))
+    # model.add(layers.Dropout(0.5))
+    # TODO mettre les 2 lignes précédentes si on a un ordi assez puissant
     model.add(layers.Dense(NB_CLASSES, activation ='sigmoid')) # 1 neurone en sortie
 
     # configuration du modèle pour l'entrainement
@@ -172,14 +205,20 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     df_0 = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", encoding='latin-1')
     df_0["labels"] = df_0["labels"].apply(lambda x: x.split(", "))
     df = sklearn.utils.shuffle(df_0)
+    print (df.shape)
     #print (df, df_0)
 
-    print (df['path'])
+    #print (df['path'])
 
     LIST_CLASS = []
 
+    memo = {}
     for index, row in tqdm(CLASSE.iterrows(), total=CLASSE.shape[0]):
+        if index > 0 :
+            memo [index-1] = row['classe']
         LIST_CLASS.append(row['classe'])
+    print (memo)
+
 
     LIST_CLASS.remove('classe')
     print("les classes sont ", LIST_CLASS)
@@ -195,6 +234,8 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
         batch_size=train_size,
         class_mode= 'categorical',
         classes = None)
+
+    print (train_generator.image_data_generator)
 
     valid_datagen = ImageDataGenerator(rescale=1./255)
 
@@ -215,8 +256,13 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     # Permet de sauvegarder les indices de labels de classe  # Utilisé lors de prediction de nouveaux fichiers
     labels = train_generator.class_indices
+    #print (labels)
     with open(chemin + "classIndice.txt", 'w') as file:
         file.write(json.dumps(labels))
+
+    # memo = {}
+    # for i in range (5):
+    #     memo[i] =
 
     print("-----------------------Réalisation de prédictions par le modèle entraîné--------------------------------")
 
@@ -249,6 +295,8 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     f2 = open(chemin + "donnees_pour_carte", "w+")
     for i in range (5):
         f2.write("x : dans le titre de l image {}".format(i)+ ", " + "y: dans le titre de l image {}".format(i) + ", " + "t : dans le titre de l'image {}".format(i) + ", " + str (booleanPrediction[i]) + ", " + "l intensité maximale, a recueillir\n" )
+    f2.close()
+
 
     listPrediction = []
 
@@ -267,15 +315,16 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
         listPrediction.append(",".join(correctPredictList))  # on enregistre les prédictions effectuées pour chaque image
 
     print (listPrediction)
-    print (df[nb_train + nb_valid:]["labels"])
+    print ("laaaaaaaaaaaaaaaaaaaaaaaaaaaa" , df[nb_train + nb_valid:]["labels"])
+
 
     f3 = open(chemin + "donnees_pour_performances", "w+")
-    # TODO 104 est à modifier selon le nb d'échantillons
-    for i in range(104 - nb_train - nb_valid):
-        f3.write(str(df.iat[nb_train + nb_valid + i, 0]) + ", " + str(df.iat[nb_train + nb_valid + i, 1]) + ", " + str(
-            [listPrediction[i]]) + "\n")
-        # df[nb_train + nb_valid + i: nb_train + nb_valid + i + 1]["labels"]
+# TODO 104 est à modifier selon le nb d'échantillons
+    for i in range(104 - nb_train - nb_valid): #str(df.iat[nb_train + nb_valid + i, 0] ) + ", " +
+        f3.write(str(df.iat[nb_train + nb_valid + i, 1] ) + " " + str([ listPrediction[i]]) +  "\n")
+        #df[nb_train + nb_valid + i: nb_train + nb_valid + i + 1]["labels"]
     f3.close()
+
 
     # Tableau contenant l'ensemble des chemin des images
     pathImg = test_generator._filepaths
@@ -315,6 +364,6 @@ taille_wav = 10  # durée en seconde des échantillons audios
 #nb_train,nb_valid = preparer_reps(src_audios,rep_dst,taille_wav)
 nb_train,nb_valid = preparer_reps(chemin + "wav",chemin + "spec",taille_wav)
 
-CNN(500,500,nb_train,nb_valid,20)
+CNN(500,500,nb_train,nb_valid,5)
 
 
