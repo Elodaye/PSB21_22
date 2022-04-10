@@ -2,7 +2,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import os
 
+import random
 import sklearn
+import torch
+import torchaudio
+from keras.models import load_model
+from torchaudio import transforms
 from scipy import signal
 from scipy.io import wavfile
 from keras import layers
@@ -12,6 +17,7 @@ import pandas as pd
 from tqdm import tqdm
 from PIL import ImageFile
 import json
+import copy
 
 def preparer_reps(src_audios, rep_dst, taille_wav):
     """
@@ -42,7 +48,7 @@ def preparer_reps(src_audios, rep_dst, taille_wav):
     # nb_train = len(os.listdir(chemin_data_train)) # 10
     # nb_valid = len(os.listdir(chemin_data_validation))  # 5  # ne fonctionne plus
 
-    nb_train, nb_valid = 25, 20 # multiples de 2 si possible
+    nb_train, nb_valid = 1536, 512 # multiples de 2 si possible
     # TODO a moduler
     return nb_train, nb_valid
 
@@ -87,29 +93,14 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
             for j, colonne in enumerate(ligne):
                 if colonne > 120:
                     spectrogram_ok[i][j] = 120
-       # spectrogram_ok = np.log (spectrogram_ook)
 
-
-        # human_spectrogram =200* np.log(spectrogram)
-        # print (human_spectrogram.max(), human_spectrogram.min())
-        #
-        # for i, ligne in enumerate (human_spectrogram):
-        #     for j, colonne in enumerate(ligne) :
-        #         if colonne <200:
-        #             human_spectrogram[i][j] = 200
-
-
-                    #human_spectrogram = 100 * np.log10(spectrogram)
-        #human_spectrogram = np.exp(spectrogram) / 10
-        #print("huuuuuuuman spectrogrammmm", human_spectrogram, human_spectrogram.shape)
-        #human_spectrogram = spectrogram
-        # la plupart des fréquences sont basses, donc pour que les différentes classes soient différenciées plus clairement,
-        # étale les faible fréquences, avec le log
 
         ### Création de la figure
         t_max = times[-1]
-        t_ref_normalize = int(t_max / 10) + 1  # Taille de l'image proportionelle au temps
-        fig = plt.figure(frameon=False, figsize=(5 * t_ref_normalize, 5))
+        t_ref_normalize = int(t_max / 10) + 1  # Taille de l'image proportionelle au temps --> = 1
+
+        fig = plt.figure(frameon=False, figsize=(10 * t_ref_normalize, 10))
+        # largeur en pouce 5, hauteur en pouces 5, et dpi de 100 donne une image de 500*500 pixels
         ax = plt.Axes(fig, [0., 0., 1., 1.])
         ax.set_axis_off()
         fig.add_axes(ax)
@@ -118,9 +109,37 @@ def wav_to_spect(wav_name,output_name, output_dir, expected_time):
         #plt.colorbar()
        #output = os.path.join(output_dir,output_name)
         output = output_dir + "//" +  output_name
-        plt.savefig(output, dpi=fig.dpi)
+        plt.savefig(output, dpi=fig.dpi) # fig.dpi = 100 --> 100 points par pouces
+        #print(fig.dpi)
         #plt.show()
         plt.close(fig)
+
+        spec_for_aug = copy.deepcopy(spectrogram_ok)
+        spec_for_aug2 = copy.deepcopy(spectrogram_ok)
+
+        spectrogram_okc = spectro_augment(spec_for_aug[:,:])
+        #print(np.array_equal(spectrogram_ok, spectrogram_okc))
+
+        fig0 = plt.figure(frameon=False, figsize=(10 * t_ref_normalize, 10))
+        ax0 = plt.Axes(fig0, [0., 0., 1., 1.])
+        ax0.set_axis_off()
+        fig0.add_axes(ax0)
+        plt.pcolormesh(times, frequencies, spectrogram_okc, cmap='binary')  ##gray_r
+        output0 = output_dir + "//" + output_name[0:-4] +"_r1" + output_name[-4::]
+        plt.savefig(output0, dpi=fig0.dpi)  # fig.dpi = 100 --> 100 points par pouces
+        plt.close(fig0)
+
+        spectrogram_okc2 = spectro_augment(spec_for_aug2[:,:])
+        #print(np.array_equal(spectrogram_ok, spectrogram_okc2))
+        fig02 = plt.figure(frameon=False, figsize=(10 * t_ref_normalize, 10))
+        ax02 = plt.Axes(fig02, [0., 0., 1., 1.])
+        ax02.set_axis_off()
+        fig02.add_axes(ax02)
+        plt.pcolormesh(times, frequencies, spectrogram_okc2, cmap='binary')  ##gray_r  spec_for_aug
+        output02 = output_dir + "//" + output_name[0:-4] +"_r2" + output_name[-4::]
+        plt.savefig(output02, dpi=fig02.dpi)  # fig.dpi = 100 --> 100 points par pouces
+        plt.close(fig02)
+
     else:
         print("Fichier audio de mauvaise longueur! Attendu: ", expected_time, "| Reçu: ", time)
 
@@ -135,6 +154,33 @@ def convertir_repertoire(src, dest, expected_time):
             print(chemin + ' converti en image')
         else:
             print(chemin + ' déjà converti')
+
+
+def spectro_augment(spect, n_freq_masks=12, n_time_masks=200):
+    aug_spec = spect[:, :]
+    n_mels, n_steps = aug_spec.shape
+    mask_value = aug_spec.mean()
+
+
+    max_mask_pct_f = random.random()
+    freq_mask_param = max_mask_pct_f * n_mels
+    freq_mask_param = int (min(freq_mask_param, n_mels - n_freq_masks-1))
+    aug_spec[freq_mask_param: freq_mask_param+int(n_freq_masks),:] = mask_value
+
+    max_mask_pct_t = random.random()
+    time_mask_param = max_mask_pct_t * n_steps
+    time_mask_param = int(min(time_mask_param, n_steps - n_time_masks-1))
+    aug_spec [:,time_mask_param: time_mask_param + int(n_time_masks)] = mask_value
+
+    return aug_spec[:,:]
+
+
+def time_shift(aud, shift_limit):
+    sig, sr = aud
+    _, sig_len = sig.shape
+    shift_amt = int(random.random() * shift_limit * sig_len)
+    return (sig.roll(shift_amt), sr)
+
 
 # --------------------------------------------------------------------
 def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
@@ -160,7 +206,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     # création du modèle:
 
-    NB_CLASSES = 5
+    NB_CLASSES = 7
     # TODO a bien changer à chaque fois  !!!!
     model = models.Sequential()
     # Conv2D(nb_filtres, taille de filtre, activation=fct activation, imput_shape=forme de l'image d'entrée)
@@ -169,32 +215,44 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     # model.add(layers.Conv2D(32,(3,3), activation='relu',input_shape=(height,length,1)))
     # model.add(layers.MaxPooling2D(2,2))
 
-    model.add(layers.Dense(8, activation='relu',input_shape=(height,length,1)))
+    #model.add(layers.Dense(8, activation='relu',input_shape=(height,length,1)))
     #model.add(layers.Dropout(0.2))
     # model.add(layers.Conv2D(2, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
     # model.add(layers.MaxPooling2D(2, 2))
     #model.add(layers.Dense(128, activation='relu')) # TODO remettre , input_shape=(500, 500, 1))
+    model.add(layers.Conv2D(32, (5, 5), activation='relu', input_shape=(height,length,1)))  # à moduler au fur et à mesure du traitement des données
+    model.add(layers.MaxPooling2D(4, 4))
+    # model.add(layers.Conv2D(32, (5, 5), activation='relu'))  # à moduler au fur et à mesure du traitement des données
+    # model.add(layers.MaxPooling2D(4, 4))
+    #
     model.add(layers.Conv2D(16, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
-    model.add(layers.MaxPooling2D(2, 2))
-    model.add(layers.Dense(64, activation='relu'))  # 512 neurones reliés de manière dense
+    model.add(layers.MaxPooling2D(4, 4))
+    model.add(layers.Conv2D(16, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
+    model.add(layers.MaxPooling2D(4, 4))
+    # TODO j ai rajoute les 2 derniers la
+    #model.add(layers.Conv2D(32, (3, 3), activation='relu'))  # à moduler au fur et à mesure du traitement des données
 
-    model.add(layers.Dropout(0.5))
+   # model.add(layers.Dropout(0.5))
 
-    # model.add(layers.Conv2D(128,(3,3),activation='relu'))
-    # model.add(layers.MaxPooling2D(2,2))
+    #model.add(layers.Conv2D(128,(3,3),activation='relu'))
+    #model.add(layers.MaxPooling2D(2,2))
 
-    # model.add(layers.Conv2D(32,(3,3),activation='relu'))
-    # model.add(layers.MaxPooling2D(2,2))
+    model.add(layers.Conv2D(32,(3,3),activation='relu'))
+    model.add(layers.MaxPooling2D(2,2))
 
-    #model.add(layers.Dense(16, activation='relu')) # 512 neurones reliés de manière dense
+    #model.add(layers.Dense(32, activation='relu')) # 512 neurones reliés de manière dense
     model.add(layers.Flatten())
     # model.add(layers.Dense(32, activation='relu'))
     # model.add(layers.Dropout(0.5))
     # TODO mettre les 2 lignes précédentes si on a un ordi assez puissant
+
+    model.add(layers.Dense(32, activation='relu'))  # 512 neurones reliés de manière dense
+    model.add(layers.Dropout(0.5))
     model.add(layers.Dense(NB_CLASSES, activation ='sigmoid')) # 1 neurone en sortie
 
     # configuration du modèle pour l'entrainement
     model.compile(loss='binary_crossentropy', optimizer='adam'  ,metrics=['acc']) # RMSprop(lr=1e-4)
+
 
     model.summary()
 
@@ -203,8 +261,11 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
                          names=["classe", "index"], encoding='latin-1')
 
     df_0 = pd.read_csv("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", encoding='latin-1')
+    ttttt = sum([1 for i in open("C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/mes_datas.txt", "r").readlines() if i.strip()])
+    print (ttttt)
     df_0["labels"] = df_0["labels"].apply(lambda x: x.split(", "))
-    df = sklearn.utils.shuffle(df_0)
+    df = sklearn.utils.shuffle(df_0) #  TODO attention !!!
+   ## df=df_0
     print (df.shape)
     #print (df, df_0)
 
@@ -223,7 +284,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     LIST_CLASS.remove('classe')
     print("les classes sont ", LIST_CLASS)
 
-    train_datagen = ImageDataGenerator(rescale=1./255 )
+    train_datagen = ImageDataGenerator(rescale=1./255) # , width_shift_range=0.1, zoom_range=0.1, brightness_range = (0.8,1.2))
 
     train_generator = train_datagen.flow_from_dataframe(
         dataframe = df[:nb_train],
@@ -234,6 +295,8 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
         batch_size=train_size,
         class_mode= 'categorical',
         classes = None)
+
+    print(train_generator.batch_size)
 
     print (train_generator.image_data_generator)
 
@@ -253,6 +316,10 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
     # apprentissage du modèle
 
     history = model.fit(train_generator, epochs=n_epochs, validation_data=test_generator, steps_per_epoch=nb_train, validation_steps=nb_valid)
+
+    model.save('Premiere_tentative_model.h5')
+    # model = load_model('Premiere_tentative_model.h5') #  TODO utiliser pour une partie 3 avec un modèle enregistré et juste on prédit à balle
+
 
     # Permet de sauvegarder les indices de labels de classe  # Utilisé lors de prediction de nouveaux fichiers
     labels = train_generator.class_indices
@@ -278,6 +345,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
         batch_size=test_size,
         class_mode= 'categorical',
         classes=None)
+    test_generator.batc
 
     STEP_SIZE_TEST = test_generator.n // test_generator.batch_size
 
@@ -320,7 +388,7 @@ def CNN(img_height,img_length, nb_train,nb_valid, n_epochs):
 
     f3 = open(chemin + "donnees_pour_performances", "w+")
 # TODO 104 est à modifier selon le nb d'échantillons
-    for i in range(104 - nb_train - nb_valid): #str(df.iat[nb_train + nb_valid + i, 0] ) + ", " +
+    for i in range(345 - nb_train - nb_valid): #str(df.iat[nb_train + nb_valid + i, 0] ) + ", " +
         f3.write(str(df.iat[nb_train + nb_valid + i, 1] ) + " " + str([ listPrediction[i]]) +  "\n")
         #df[nb_train + nb_valid + i: nb_train + nb_valid + i + 1]["labels"]
     f3.close()
@@ -364,6 +432,6 @@ taille_wav = 10  # durée en seconde des échantillons audios
 #nb_train,nb_valid = preparer_reps(src_audios,rep_dst,taille_wav)
 nb_train,nb_valid = preparer_reps(chemin + "wav",chemin + "spec",taille_wav)
 
-CNN(500,500,nb_train,nb_valid,5)
-
+#CNN(1000,1000,nb_train,nb_valid,5)
+CNN(1000,1000,10,10,5)
 

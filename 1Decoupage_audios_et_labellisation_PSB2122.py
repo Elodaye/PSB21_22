@@ -39,10 +39,10 @@ class Window_Menu (QtWidgets.QMainWindow) :
         self.bouton_voix.setFont(QFont('Calibri', 12))  # type et taille de police
         self.bouton_voix.move(120, 120)  # position du bouton
 
-        self.bouton_poule = QtWidgets.QPushButton("poule", self)
-        self.bouton_poule.setFixedSize(150, 40)  # taille du bouton
-        self.bouton_poule.setFont(QFont('Calibri', 12))  # type et taille de police
-        self.bouton_poule.move(120, 120)  # position du bouton
+        self.bouton_velo = QtWidgets.QPushButton("velo", self)
+        self.bouton_velo.setFixedSize(150, 40)  # taille du bouton
+        self.bouton_velo.setFont(QFont('Calibri', 12))  # type et taille de police
+        self.bouton_velo.move(120, 120)  # position du bouton
 
         self.bouton_mouette = QtWidgets.QPushButton("mouette", self)
         self.bouton_mouette.setFixedSize(150, 40)  # taille du bouton
@@ -115,7 +115,7 @@ class Window_Menu (QtWidgets.QMainWindow) :
 
         self.layout.addWidget(self.bouton_car)
         self.layout.addWidget(self.bouton_voix)
-        self.layout.addWidget(self.bouton_poule)
+        self.layout.addWidget(self.bouton_velo)
         self.layout.addWidget(self.bouton_mouette)
         self.layout.addWidget(self.bouton_moto)
         self.layout.addWidget(self.bouton_pie)
@@ -136,17 +136,17 @@ class Window_Menu (QtWidgets.QMainWindow) :
 
         self.bouton_car.clicked.connect(self.ajoute_label_car)
         self.bouton_voix.clicked.connect(self.ajoute_label_voix)
-        self.bouton_poule.clicked.connect(self.ajoute_label_poule)
+        self.bouton_velo.clicked.connect(self.ajoute_label_velo)
         self.bouton_mouette.clicked.connect(self.ajoute_label_mouette)
         self.bouton_moto.clicked.connect(self.ajoute_label_moto)
         self.bouton_pie.clicked.connect(self.ajoute_label_pie)
         self.bouton_chien.clicked.connect(self.ajoute_label_chien)
 
 
-        sr, self.sig = wavfile.read(chemin_court + "village_6.wav")
+        sr, self.sig = wavfile.read(chemin_court + "musique_1.wav")
         #TODO mettre le bon fichier à lire !!
         #sr = fréquence d'échantillonage
-        self.duree = 183        # durée de l'audio en entrée
+        self.duree = 245     # durée de l'audio en entrée
         # TODO cette valeur doit être maj à chaque fois
         self.temps_spec = 10 # durée de l'enregistrement, choisie à 10 secondes.
         nb_points = sr * self.duree
@@ -156,14 +156,17 @@ class Window_Menu (QtWidgets.QMainWindow) :
         if os.path.getsize(chemin_court + "mes_datas.txt") == 0 :
             self.f.write("path,labels\n")
         self.sig_splits = []
-        self.depart = 87
+        self.sig_splits_tr_n = []
+        self.sig_splits_tr_b = []
+        self.depart = 285
         # TODO cette valeur doit être maj à chaque fois
-        self.i = 87   # anciens comptés
+        self.i = 285  # anciens comptés
         # TODO cette valeur doit être maj à chaque fois
         self.ii = 0
 
         self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]
         self.sig_splits.append(self.split)
+        print(self.sig_splits)
         self.freq = sr   # ça me sort 32 000
 
         self.show()
@@ -180,11 +183,11 @@ class Window_Menu (QtWidgets.QMainWindow) :
         else :
             self.nb_tour.setText(self.nb_tour.text() + ", " + "voix")
 
-    def ajoute_label_poule (self):
+    def ajoute_label_velo (self):
         if str(self.nb_tour.text()) == '':
-            self.nb_tour.setText(self.nb_tour.text() + "poule")
+            self.nb_tour.setText(self.nb_tour.text() + "velo")
         else :
-            self.nb_tour.setText(self.nb_tour.text() + ", " + "poule")
+            self.nb_tour.setText(self.nb_tour.text() + ", " + "velo")
 
     def ajoute_label_mouette (self):
         if str(self.nb_tour.text()) == '':
@@ -222,25 +225,54 @@ class Window_Menu (QtWidgets.QMainWindow) :
         self.label.append (str(self.nb_tour.text()))
         nb = self.nb_tour.text()
         print ("enregistrement n°{}, le label est {}".format (self.i +1, nb))
+        if self.ii == 0 :
+            return None
         try :
             nb = str (nb)
             self.close()
             self.i += 1
-            self.ii += 1
 
-            if self.ii < int(self.duree / self.temps_spec):
+
+            if self.ii < int(self.duree / self.temps_spec-1):
+
+                self.split_tr_b = self.sig[self.ii * (int(self.pas2)) - int(self.pas2 / 8): (self.ii + 1) * (int(self.pas2)) - int( self.pas2 / 8), 0]
+                self.sig_splits_tr_b.append(self.split_tr_b)
+
+                self.split_tr_n = self.sig[self.ii * (int(self.pas2)) + int(self.pas2 / 8): (self.ii + 1) * (int(self.pas2)) + int(self.pas2 / 8), 0]
+                self.sig_splits_tr_n.append(self.split_tr_n)
+
                 self.split = self.sig[self.ii * (int(self.pas2)): (self.ii + 1) * (int(self.pas2)),0]  # ,0 si on a un audio
                 self.sig_splits.append(self.split)
+
                 self.titre1.setText(("Echantillon n° {}".format(self.i +1)))
                 self.show()
                 self.nb_tour.setText('')
+                self.ii += 1
 
             else :
-                for i in range(int(self.duree/ self.temps_spec)):
+                for i in range(int(self.duree / self.temps_spec)):
+                    write(chemin_court + "wav/audio/" + "recording{}_trb.wav".format(i + self.depart + 1), self.freq, self.sig_splits_tr_b[i])
+
+                    write(chemin_court + "wav/audio/" + "recording{}_trn.wav".format(i + self.depart + 1), self.freq,self.sig_splits_tr_n[i])
                     write(chemin_court + "wav/audio/" + "recording{}.wav".format(i +self.depart + 1), self.freq, self.sig_splits[i])
+
+
                     if "," in self.label[i]: # si on a plusieurs labels
                         self.label[i] = '"' + self.label[i] + '"'
+
+                    self.f.write(chemin + "recording{}_trb.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_trb_r1.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_trb_r2.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+
+                    self.f.write(chemin + "recording{}_trn.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_trn_r1.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_trn_r2.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+
                     self.f.write(chemin + "recording{}.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_r1.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+                    self.f.write(chemin + "recording{}_r2.png,{}\n".format(i + 1 + self.depart, self.label[i]))
+
+
                 self.f.close()
 
         except ValueError :   # on ne peut faire un nombre de coup qui ne soit pas un nombre entier
