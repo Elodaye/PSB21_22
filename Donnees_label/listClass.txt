@@ -4,3 +4,5 @@ moto,1
 pie,2
 chien,3
 voix,4
+velo,5
+mouette,6

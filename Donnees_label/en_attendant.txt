@@ -1,0 +1,1318 @@
+
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording173_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording174_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording175_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording176_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording177_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording178_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording179_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording180_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording181_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording182_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording183_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording184_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording185_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording186_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording187_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording188_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording189_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording190_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording191_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording192_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording193_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording194_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording195_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording196_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trn.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trn_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_trn_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording197_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording198_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording163_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trb.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trb_r1.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trb_r2.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trn.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trn_r1.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_trn_r2.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_r1.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording164_r2.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trb.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trb_r1.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trb_r2.png,"mouette, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trn.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trn_r1.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_trn_r2.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_r1.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording165_r2.png,"voix, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording166_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trb.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trb_r1.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trb_r2.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trn.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trn_r1.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_trn_r2.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_r1.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording167_r2.png,"car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording168_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording169_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trb.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trb_r1.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trb_r2.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trn.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trn_r1.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_trn_r2.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_r1.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording170_r2.png,"mouette, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording171_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording172_r2.png,"voix, velo"
+
+
+
+
+
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording199_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording200_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trb.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trb_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trb_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trn.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trn_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_trn_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording201_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording202_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording203_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording204_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording205_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording206_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording207_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trn.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trn_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_trn_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording208_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording209_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording210_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording211_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording212_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording213_r2.png,voix
+
+
+
+
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording214_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording215_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording216_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording217_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording218_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording219_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording220_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trb_r1.png,"voix, velo""
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording221_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording222_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording223_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording224_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording225_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording226_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trb.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trb_r1.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trb_r2.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trn.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trn_r1.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_trn_r2.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_r1.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording227_r2.png,"voix, velo, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording228_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trb.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trb_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trb_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trn.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trn_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_trn_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_r1.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording229_r2.png,voix
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording230_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording231_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trb.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trb_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trb_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trn.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trn_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_trn_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording232_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trb.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trb_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trb_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trn.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trn_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_trn_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording233_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording234_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording235_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording236_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording237_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trb.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trb_r1.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trb_r2.png,"pie, car, velo, voix""
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trn.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trn_r1.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_trn_r2.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_r1.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording238_r2.png,"pie, car, velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trb.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trb_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trb_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trn.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trn_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_trn_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording239_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording240_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording241_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trb.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trb_r1.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trb_r2.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trn.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trn_r1.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_trn_r2.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_r1.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording242_r2.png,"voix, mouette, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording243_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording244_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording245_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording246_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording247_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trn.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trn_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_trn_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording248_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trb.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trb_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trb_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording249_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording250_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording251_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording252_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording253_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trn.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trn_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_trn_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording254_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trb.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trb_r1.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trb_r2.png,"velo, car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording255_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording256_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording257_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording258_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trb.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trb_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trb_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trn.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trn_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_trn_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording259_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trb.png,"voix, velo, car""
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording260_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trb.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trb_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trb_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trn.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trn_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_trn_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_r1.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording261_r2.png,"voix, car, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording262_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording263_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording264_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording265_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trb.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trb_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trb_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trn.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trn_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_trn_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_r1.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording266_r2.png,"car, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording267_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording268_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording269_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording270_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording271_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording272_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording273_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording274_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trn.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trn_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_trn_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording275_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trb.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trb_r1.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trb_r2.png,"velo, voix"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording276_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trb.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trb_r1.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trb_r2.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trn.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trn_r1.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_trn_r2.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_r1.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording277_r2.png,"voix, pie"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trb.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trb_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trb_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trn.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trn_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_trn_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording278_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trb.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trb_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trb_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording279_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trb.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trb_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trb_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trn.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trn_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_trn_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_r1.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording280_r2.png,"voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording281_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trb.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trb_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trb_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trn.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trn_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_trn_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_r1.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording282_r2.png,"velo, voix, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trb.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trb_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trb_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trn.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trn_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_trn_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_r1.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording283_r2.png,"voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trb.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trb_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trb_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trn.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trn_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_trn_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_r1.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording284_r2.png,"car, voix, velo"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trb.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trb_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trb_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trn.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trn_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_trn_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_r1.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording285_r2.png,"voix, velo, car"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording286_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording287_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trb.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trb_r1.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trb_r2.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trn.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trn_r1.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_trn_r2.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_r1.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording288_r2.png,"mouette, mouette"
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording289_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording290_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording291_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording292_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording293_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording294_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording295_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording296_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording297_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording298_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording299_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording300_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording301_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording302_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording303_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording304_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording305_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording306_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording307_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trb.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trb_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trb_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trn.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trn_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_trn_r2.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_r1.png,mouette
+C:/Users/Utilisateur/Documents/ENSTA/2A/UE 3.4/Projet système/Machine_learning/Donnees_label/wav/spec/recording308_r2.png,mouette

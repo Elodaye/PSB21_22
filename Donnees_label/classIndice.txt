@@ -1,1 +1,1 @@
-{"car": 0, "chien": 1, "moto": 2, "pie": 3, "voix": 4}
+{"car": 0, "chien": 1, "moto": 2, "mouette": 3, "pie": 4, "velo": 5, "voix": 6}
