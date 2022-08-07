@@ -1,7 +1,15 @@
 # PSB21_22
 
+## Projet de classification sonore par méthodes de machine learning
 
-Consignes pour le groupe S3
+Reconnaissance automatiques des différents sons présents dans la ville de Brest. 
+Méthodes de deep learning, réseau de neurones convolutifs. 
+Apprentissage effectué sur les spectrogrammes des sons : représentation de l'amplitude du signal, pour un maillage temps-fréquence. 
+
+La restructuration du code est prévue pour les semaines à venir.
+
+
+# Consignes pour le groupe S3
 
 Pour l’instant les classes labellisées sont : car, pie, moto, chien. Si autres, il faut les rajouter dans ListClass et classIndice. Pie = les oiseaux en général.
 
