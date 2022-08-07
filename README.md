@@ -7,7 +7,7 @@ Méthodes de deep learning, réseau de neurones convolutifs.
 Apprentissage effectué sur les spectrogrammes des sons : représentation de l'amplitude du signal, pour un maillage temps-fréquence. 
 
 La restructuration du code est prévue pour les semaines à venir.
-Le projet a été mené avec 3 camarades, la partie présente sur ce repertoire correspond à ma contribution.
+Le projet a été mené avec 3 camarades, la partie présente sur ce repertoire correspond à ma contribution, excepté la partie géostatistique. 
 
 
 ## Consignes pour le groupe
